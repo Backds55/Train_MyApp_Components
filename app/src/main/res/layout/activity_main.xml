@@ -84,7 +84,8 @@
     <Spinner
         android:id="@+id/spnEstados"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:entries="@array/estado"/>
 
     <Button
         android:id="@+id/btnEntrar"

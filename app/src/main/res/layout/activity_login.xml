@@ -60,7 +60,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end|right"
         android:gravity="center_horizontal"
-        android:text="Esqueci a senha?" />
+        android:text="Esqueci a senha?"
+        android:textColor="#000"/>
 
 
 </LinearLayout>
