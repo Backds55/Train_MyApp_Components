@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Insira seu nome" />
+
+    <EditText
+        android:id="@+id/txtNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName" />
+
+    <ImageView
+        android:id="@+id/imgUsuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/android_black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sexo" />
+
+    <RadioGroup
+        android:id="@+id/rdgSexo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdbFeminino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Feminino" />
+
+        <RadioButton
+            android:id="@+id/rdbMasculino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Masculino" />
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selecione suas preferências:" />
+
+    <CheckBox
+        android:id="@+id/ckbLivros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Livros" />
+
+    <CheckBox
+        android:id="@+id/ckbEsportes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Esportes" />
+
+    <CheckBox
+        android:id="@+id/ckbPraia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Praia" />
+
+    <CheckBox
+        android:id="@+id/ckbEstudar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estudarr" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estado" />
+
+    <Spinner
+        android:id="@+id/spnEstados"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnEntrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Entrar"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnSair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sair" />
+
+
+</LinearLayout>
