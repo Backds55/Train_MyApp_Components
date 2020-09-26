@@ -27,7 +27,7 @@
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
                 android:onClick="abrir_Historia"
-                android:src="@drawable/tony_stark" />
+                android:src="@drawable/hist" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -53,12 +53,12 @@
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
                 android:onClick="abrir_Armaduras"
-                android:src="@drawable/icon_iron" />
+                android:src="@drawable/pers_ne" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Armaduras"
+                android:text="Personagens"
                 android:textColor="#000"
                 android:textSize="20dp"
                 android:textStyle="bold" />
@@ -87,12 +87,12 @@
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
                 android:onClick="abrir_Jarvis"
-                android:src="@drawable/jarvis" />
+                android:src="@drawable/pers" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Jarvis"
+                android:text="Transformações"
                 android:textColor="#000"
                 android:textSize="20dp"
                 android:textStyle="bold" />
@@ -113,12 +113,12 @@
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
                 android:onClick="abrir_Pepper"
-                android:src="@drawable/peppers" />
+                android:src="@drawable/sagas" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Pepper Potts"
+                android:text="Sagas"
                 android:textColor="#000"
                 android:textSize="20dp"
                 android:textStyle="bold" />
@@ -147,12 +147,12 @@
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
                 android:onClick="abrir_EmpresaS"
-                android:src="@drawable/empresa_icon" />
+                android:src="@drawable/omn_two" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Empresa Stark"
+                android:text="Omnitrix"
                 android:textColor="#000"
                 android:textSize="20dp"
                 android:textStyle="bold" />
@@ -171,14 +171,14 @@
                 android:layout_height="180dp"
                 android:layout_marginLeft="5dp"
                 android:background="@drawable/cor_fundo"
-                android:src="@drawable/avengers" />
+                android:src="@drawable/enc" />
 
             <TextView
                 android:id="@+id/imb_Vingadores"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:onClick="abrir_Vingadores"
-                android:text="Vingadores"
+                android:text="Curiosidades"
                 android:textColor="#000"
                 android:textSize="20dp"
                 android:textStyle="bold" />

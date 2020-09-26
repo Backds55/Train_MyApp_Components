@@ -76,7 +76,7 @@ public class MenuPrincipal_Activity extends AppCompatActivity {
         finish();
     }
 
-    public void abrir_Empresa(View view) {
+    public void abrir_EmpresaS(View view) {
         //mostrar mensagem na janela do Android
        /* Toast.makeText(getApplicationContext(),
                 "Cliquei em Empresa Stark",

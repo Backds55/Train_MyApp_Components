@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
     <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="10dp"
-        android:orientation="vertical"
-        tools:context=".Login_Activity">
+        android:orientation="vertical">
 
         <ImageView
             android:layout_width="250px"
@@ -39,6 +35,7 @@
             android:hint="Senha do usuário"
             android:inputType="textPassword"
             android:textSize="25sp" />
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -66,12 +63,10 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="end|right"
-            android:gravity="center_horizontal"
+            android:gravity="center"
             android:text="Esqueci a senha?"
-            android:textColor="#000000"
-            android:textSize="20dp" />
+            android:textColor="#000"
+            android:textSize="18dp" />
 
 
     </LinearLayout>
-</ScrollView>
