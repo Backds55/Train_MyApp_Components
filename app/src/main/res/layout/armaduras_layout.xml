@@ -28,6 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="15dp"
             android:text="Abaixo os personagens da série de desenho animado, Ben 10, os principais e vilões:"
+            android:textColor="#000"
             android:textSize="15sp" />
 
         <ScrollView
@@ -44,6 +45,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
                     android:text="- Principais:"
+                    android:textColor="#000"
                     android:textSize="17sp"
                     android:textStyle="bold" />
 
@@ -68,6 +70,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Benjamin Kirby, Ben Tennyson:"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -99,6 +102,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Gwendolyn, Gwen Tennyson"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -130,6 +134,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Maxwell, Max Tennyson"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -145,6 +150,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
                     android:text="- Vilões:"
+                    android:textColor="#000"
                     android:textSize="17sp"
                     android:textStyle="bold" />
 
@@ -170,6 +176,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Kevin E. Levin"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -203,6 +210,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Vilgax"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -236,6 +244,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Dr. Aloysius Animal"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -269,6 +278,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Cavaleiros Eternos"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -302,6 +312,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Hex"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView

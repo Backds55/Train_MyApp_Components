@@ -27,6 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:text="1º - Saga Clássico"
+            android:textColor="#000"
             android:textSize="17sp"
             android:textStyle="bold" />
 
@@ -49,6 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:text="2º - Saga Força Alienígena"
+            android:textColor="#000"
             android:textSize="17sp"
             android:textStyle="bold" />
 
@@ -71,6 +73,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:text="3º - Saga Supremacia Alienígena"
+            android:textColor="#000"
             android:textSize="17sp"
             android:textStyle="bold" />
 
@@ -91,6 +94,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:text="4º - Saga Omniverse"
+            android:textColor="#000"
             android:textSize="17sp"
             android:textStyle="bold" />
 
@@ -111,21 +115,22 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:text="5º - Saga Reboot (atual)"
+            android:textColor="#000"
             android:textSize="17sp"
             android:textStyle="bold" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/sagas_reb"
             android:layout_marginBottom="10dp"
+            android:text="@string/sagas_reb"
             android:textSize="15sp" />
 
         <ImageView
             android:layout_width="200dp"
             android:layout_height="200dp"
-            android:layout_marginBottom="20dp"
             android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
             android:src="@drawable/ben_reb" />
 
 

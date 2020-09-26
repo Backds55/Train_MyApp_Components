@@ -21,9 +21,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Ben 10"
+        android:text="Omnikipidea"
         android:textSize="30dp"
         android:textColor="#000"
         android:textStyle="bold"
-        android:textAlignment="center"
+        android:textAlignment="center"/>
 </LinearLayout>

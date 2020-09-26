@@ -28,6 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="15dp"
             android:text="Principais transformações do Omnitrix na saga Ben 10 original:"
+            android:textColor="#000"
             android:textSize="15sp" />
 
         <ScrollView
@@ -60,6 +61,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Chama (Heatblast)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -91,6 +93,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Besta (Wildmutt)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -122,6 +125,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Diamante (Diamondhead)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -154,6 +158,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="XLR8"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -187,6 +192,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Massa Cinzenta (Grey Matter)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -220,6 +226,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Quatro Braços (Four Arms)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -253,6 +260,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Insectóide (Stinkfly)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -286,6 +294,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Aquático (Ripjaws)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -319,6 +328,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Ultra T (Upgrade)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
@@ -352,6 +362,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Fantasmático (Ghostfreak)"
+                            android:textColor="#000"
                             android:textStyle="bold" />
 
                         <TextView
